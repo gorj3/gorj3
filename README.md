@@ -6,6 +6,8 @@ Please add me in [LinkedIn](https://www.linkedin.com/in/jorgeecsilva/)!
 
 View all my certs in [Credly](https://www.credly.com/users/jorge-carrillo-silva/badges).
 
+Visita mi blog en español sobre la nube en [www.lasnubes.link](https://www.lasnubes.link)
+
 ## Technologies
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
@@ -23,5 +25,3 @@ View all my certs in [Credly](https://www.credly.com/users/jorge-carrillo-silva/
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Cisco](https://img.shields.io/badge/-Cisco-white?style=flat-square&logo=cisco)
-
-Visita mi blog en español sobre la nube en [www.lasnubes.link](https://www.lasnubes.link)
