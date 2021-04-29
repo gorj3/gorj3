@@ -8,6 +8,10 @@ View all my certs in [Credly](https://www.credly.com/users/jorge-carrillo-silva/
 
 Visita mi blog en español sobre la nube en [www.lasnubes.link](https://www.lasnubes.link)
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gorj3&layout=compact)](https://github.com/gorj3/github-readme-stats)
+
 ## Technologies
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
@@ -25,6 +29,4 @@ Visita mi blog en español sobre la nube en [www.lasnubes.link](https://www.lasn
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Cisco](https://img.shields.io/badge/-Cisco-white?style=flat-square&logo=cisco)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gorj3&layout=compact)](https://github.com/gorj3/github-readme-stats)
 
