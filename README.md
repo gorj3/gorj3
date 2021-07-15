@@ -10,7 +10,7 @@ Visita mi blog en español sobre la nube en [www.lasnubes.link](https://www.lasn
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gorj3&layout=compact)](https://github.com/gorj3/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgesoft&layout=compact)](https://github.com/gorj3/github-readme-stats)
 
 ## Technologies
 
