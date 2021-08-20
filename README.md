@@ -1,12 +1,10 @@
-## All about Cloud, Site Reliability Engineer and DevOps
+## Site Reliability Engineer, Cloud and DevOps
 
-Site Reliability Engineer with extensive cloud experience in Azure, AWS and private clouds.
+Site Reliability Engineer with extensive cloud experience in Azure, AWS and private cloud.
 
-Please add me in [LinkedIn](https://www.linkedin.com/in/jorgeecsilva/)!
+Add me in [LinkedIn](https://www.linkedin.com/in/jorgeecsilva/).
 
 View all my certs in [Credly](https://www.credly.com/users/jorge-carrillo-silva/badges).
-
-Visita mi blog en español sobre la nube en [www.lasnubes.link](https://www.lasnubes.link)
 
 ---
 
