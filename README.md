@@ -6,6 +6,8 @@ Add me in [LinkedIn](https://www.linkedin.com/in/jorgeecsilva/).
 
 View all my certs in [Credly](https://www.credly.com/users/jorge-carrillo-silva/badges).
 
+Currently learning: C++ and Django!
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgesoft&layout=compact&exclude_repo=s3-website-terraform)](https://github.com/gorj3/github-readme-stats)
