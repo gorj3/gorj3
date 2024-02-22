@@ -1,12 +1,14 @@
 ## Site Reliability Engineer, Cloud and DevOps
 
-Site Reliability Engineer with extensive cloud experience in Azure, AWS and private cloud.
+Senior Network Security Analyst at Delta Dental NJ/CT | NYU Cyber Fellow 
+
+Extensive cloud experience in Azure, AWS and private cloud.
 
 Add me in [LinkedIn](https://www.linkedin.com/in/jorgeecsilva/).
 
 View all my certs in [Credly](https://www.credly.com/users/jorge-carrillo-silva/badges).
 
-Currently learning: C++ and Django!
+Currently learning: Google Cloud Platform and CISSP!
 
 ---
 
