@@ -2,13 +2,13 @@
 
 Senior Network Security Analyst at Delta Dental NJ/CT | NYU Cyber Fellow 
 
-Extensive cloud experience in Azure, AWS and private cloud.
+Extensive cloud experience in Azure, AWS, GCP, and private cloud.
 
-Add me in [LinkedIn](https://www.linkedin.com/in/jorgeecsilva/).
+Add me on [LinkedIn](https://www.linkedin.com/in/jorgeecsilva/).
 
 View all my certs in [Credly](https://www.credly.com/users/jorge-carrillo-silva/badges).
 
-Currently learning: Google Cloud Platform and CISSP!
+Currently learning: Django and CISSP!
 
 ---
 
